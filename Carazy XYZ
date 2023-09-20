@@ -1,0 +1,17 @@
+from tkinter.tix import InputOnly
+
+
+print('"we are learning" ,he said')
+print(' He said ,','"I\'n learning"')
+#write a python program that calculate the area of a circle having radius 3.12
+pi=3.12
+RADIUS=3.12
+AREA=pi*(RADIUS*RADIUS)
+print(AREA)
+
+FIRSTNAME=input("enter the first name")
+lastname=input("enter the lastname")
+sap_id=input("enter the sap id")
+print(FIRSTNAME+lastname)
+print(lastname,FIRSTNAME)
+
